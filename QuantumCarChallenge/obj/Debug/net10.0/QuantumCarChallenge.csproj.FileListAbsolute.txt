@@ -1,0 +1,15 @@
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\bin\Debug\net10.0\QuantumCarChallenge.exe
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\bin\Debug\net10.0\QuantumCarChallenge.deps.json
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\bin\Debug\net10.0\QuantumCarChallenge.runtimeconfig.json
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\bin\Debug\net10.0\QuantumCarChallenge.dll
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\bin\Debug\net10.0\QuantumCarChallenge.pdb
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.AssemblyInfoInputs.cache
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.AssemblyInfo.cs
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.sourcelink.json
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.dll
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\refint\QuantumCarChallenge.dll
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.pdb
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\QuantumCarChallenge.genruntimeconfig.cache
+C:\Users\Omar Nabil\Downloads\New folder\QuantumCarChallenge\QuantumCarChallenge\obj\Debug\net10.0\ref\QuantumCarChallenge.dll
