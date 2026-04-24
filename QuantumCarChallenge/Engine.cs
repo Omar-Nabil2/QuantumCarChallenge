@@ -8,12 +8,12 @@ namespace QuantumCarChallenge
     {
         public int internalSpeed { get; protected set; }
 
-        public virtual void Increase()
+        protected virtual void Increase()
         {
             internalSpeed++;
         }
 
-        public virtual void Decrease()
+        protected virtual void Decrease()
         {
             internalSpeed--;
         }
