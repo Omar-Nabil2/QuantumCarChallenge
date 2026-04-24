@@ -11,15 +11,17 @@ namespace QuantumCarChallenge
         public virtual void Increase()
         {
             internalSpeed++;
-            Console.WriteLine($"Engine internal speed increased to: {internalSpeed} km/h");
         }
 
         public virtual void Decrease()
         {
             internalSpeed--;
-            Console.WriteLine($"Engine internal speed decreased to: {internalSpeed} km/h");
         }
 
-        public abstract void UpdateSpeed(int currentSpeed);
+        public virtual void UpdateSpeed(int currentSpeed)
+        {
+            while (internalSpeed < currentSpeed) Increase();
+            while (internalSpeed > currentSpeed) Decrease();
+        }
     }
 }
