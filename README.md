@@ -15,7 +15,7 @@ The "Quantum Car" project is a simulation of a car factory where cars can have d
 ## 📊 Class Diagram (UML)
 Below is the architectural design of the system:
 
-<img width="4032" height="5670" alt="uml diagram" src="https://github.com/user-attachments/assets/cfc04812-4037-4263-8fcd-ce1467d9d6ad" />
+<img width="2926" height="5895" alt="IEngine Integration for Car-2026-04-24-091831" src="https://github.com/user-attachments/assets/898a5c6a-fe06-40ca-ab37-ff0b509b9d54" />
 
 ## 🚀 How it Works
 1. **Start:** Car starts at 0 speed.
